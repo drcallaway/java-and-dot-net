@@ -4,7 +4,7 @@ The Programmer's Guide to Java and .NET is a free eBook available in Word or HTM
 
 **NOTE:** This book was originally written in 2003. This was before Java scripting languages like JRuby, JPython, and Groovy were widely available and prior to the many new features offered in JDK 1.5. Therefore, some assertions in this book are now outdated and inaccurate. Unfortunately, I have no plans right now to update the book to reflect the current state of these two platforms (that's just too much work). So, as you read this book, please keep in mind that there are now a plethora of language options for the Java platform (many of which produce valid Java bytecode that can be executed directly by the JVM). In addition, Java is no longer a largely interpreted language. Rather, modern JVMs natively compile and optimize code in order to maximize performance. Finally, several C# features that were not supported by Java in 2003 have been added with the release of JDK 1.5 (e.g., enum support and "for each" loops). For an overview of these new Java features, see the What's New in JDK 1.5 slideshow.
 
-<a href="chapters1-7.zip" download="chapters1-7.zip">All Chapters in PDF Format (zipped file)</a>
+[All Chapters in PDF Format (zipped file)](chapters1-7.zip)
 
 [Chapter 1 - Introduction to the Java and .NET Platforms](Chapter1.pdf)
 
